@@ -1,0 +1,33 @@
+table, td {
+    border: 1px solid pink;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 15px;
+}
+
+td:first-child{
+    text-align: start;
+}
+
+th:nth-child(2){
+    padding: 0 25px;
+}
+
+.tableContainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+th {
+    padding: 0 25px;
+}

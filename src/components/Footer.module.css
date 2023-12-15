@@ -1,0 +1,16 @@
+.footer{
+    /* clear: both; */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    color: white;
+    text-align: center;
+
+
+}
+
+.footerText {
+    padding: .2em;
+}

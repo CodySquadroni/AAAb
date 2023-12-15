@@ -1,0 +1,19 @@
+.inProgress{
+    color: blue;
+}
+
+.completed {
+    color: green;
+}
+
+.editBook i{
+    color: darkslategray;
+}
+
+.editBook:hover i{
+    color: palevioletred;
+}
+
+.stars i{
+    color: rgb(237, 172, 8);
+  }

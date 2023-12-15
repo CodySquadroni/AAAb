@@ -1,0 +1,13 @@
+.wishList{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.wishContainer{
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.wishButton {
+    margin: 2em;
+}

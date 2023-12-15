@@ -1,0 +1,28 @@
+.cards {
+
+  width: 500px;
+  padding: 1rem;
+  border: 1px solid pink;
+  margin: 10px;
+  position: relative;
+}
+
+.cardCol {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.buttons{
+    position: absolute;
+    bottom: 0;
+    /* margin: 0 auto; */
+}
+
+.popup{
+  background-color: pink;
+  margin-bottom: 4em;
+  border: 3px dotted slategrey;
+  padding: 1em;
+}
+
